@@ -1,0 +1,9 @@
+opencv-python
+onnxruntime-gpu
+numpy
+torch
+torchvision
+gfpgan
+realesrgan
+insightface
+argparse
